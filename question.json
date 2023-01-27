@@ -1,0 +1,173 @@
+[
+    
+    {
+      "id": 0,
+      "question": "How do you find the number with the highest value of x and y?",
+      "answers": {
+        "answer_a": "ceil(x, y)",
+        "answer_b": "Math.ceil(x, y)",
+        "answer_c": "Math.max(x, y)",
+        "answer_d": "top(x, y)"
+
+      },
+      "multiple_correct_answers": "false",
+      "correct_answers": {
+        "answer_correct": "ceil(x, y)"
+      
+ 
+      } 
+    },
+    {
+      "id": 1,
+      "question": "How do you round the number 7.25, to the nearest integer?      ",
+      "answers": {
+        "answer_a": "Math.rnd(7.25)",
+        "answer_b": "rnd(7.25)",
+        "answer_c": "round(7.25)",
+        "answer_d": "Math.round(7.25)"
+
+      },
+      "multiple_correct_answers": "false",
+      "correct_answers": {
+        "answer_correct": "Math.rnd(7.25)"
+      
+ 
+      } 
+    },
+    {
+      "id": 2,
+      "question": "How does a FOR loop start? ",
+      "answers": {
+        "answer_a": "for i = 1 to 5",
+        "answer_b": "for (i = 0; i <= 5; i++)",
+        "answer_c": "for (i <= 5; i++)",
+        "answer_d": "for (i = 0; i <= 5)"
+
+      },
+      "multiple_correct_answers": "false",
+      "correct_answers": {
+        "answer_correct": "for i = 1 to 5"
+      
+ 
+      } 
+    },
+    {
+      "id": 3,
+      "question": "Inside which HTML element do we put the JavaScript?",
+      "answers": {
+        "answer_a": "js",
+        "answer_b": "scripting",
+        "answer_c": "javascript",
+        "answer_d": "script"
+
+      },
+      "multiple_correct_answers": "false",
+      "correct_answers": {
+        "answer_correct": "js"
+      
+ 
+      } 
+    },
+    {
+      "id": 4,
+      "question": "Which event occurs when the user clicks on an HTML element?",
+      "answers": {
+        "answer_a": "onclick",
+        "answer_b": "onmouseover",
+        "answer_c": "onmouseclick",
+        "answer_d": "onchange"
+
+      },
+      "multiple_correct_answers": "false",
+      "correct_answers": {
+        "answer_correct": "onclick"
+      
+ 
+      } 
+    },
+    {
+      "id": 5,
+      "question": "How can you add a comment in a JavaScript?",
+      "answers": {
+        "answer_a": "ls",
+        "answer_b": "<!--This is a comment-->",
+        "answer_c": "'This is a comment",
+        "answer_d": "//This is a comment     "
+
+      },
+      "multiple_correct_answers": "false",
+      "correct_answers": {
+        "answer_correct": "ls"
+      
+ 
+      }  
+    },
+    {
+      "id": 6,
+      "question": "How do you call a function named 'myFunction'?",
+      "answers": {
+        "answer_a": "myFunction()",
+        "answer_b": "call myFunction()",
+        "answer_c": "call function myFunction()",
+        "answer_d": "call function myFunction()-()"
+
+      },
+      "multiple_correct_answers": "false",
+      "correct_answers": {
+        "answer_correct": "myFunction()"
+      
+ 
+      } 
+    },
+    {
+      "id": 7,
+      "question": "How to write an IF statement in JavaScript?",
+      "answers": {
+        "answer_a": "ls",
+        "answer_b": "delete",
+        "answer_c": "remove",
+        "answer_d": "rmdir"
+
+      },
+      "multiple_correct_answers": "false",
+      "correct_answers": {
+        "answer_correct": "ls"
+      
+ 
+      } 
+    },
+    {
+      "id": 8,
+      "question": "What is the correct syntax for referring to an external script called?",
+      "answers": {
+        "answer_a": "ls",
+        "answer_b": "delete",
+        "answer_c": "remove",
+        "answer_d": "rmdir"
+
+      },
+      "multiple_correct_answers": "false",
+      "correct_answers": {
+        "answer_correct": "ls"
+      
+ 
+      } 
+    },
+    {
+      "id": 9,
+      "question": "What is the correct JavaScript syntax for opening a new window called ?",
+      "answers": {
+        "answer_a": "ls",
+        "answer_b": "delete",
+        "answer_c": "remove",
+        "answer_d": "rmdir"
+
+      },
+      "multiple_correct_answers": "false",
+      "correct_answers": {
+        "answer_correct": "ls"
+      
+ 
+      } 
+    }
+  ]
